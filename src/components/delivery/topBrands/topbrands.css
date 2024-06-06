@@ -1,0 +1,45 @@
+.top-brands {
+  padding-top: 30px;
+}
+
+.top-brands-cover {
+  height: 150px;
+  width: 150px;
+  background-color: var(--primary-bg);
+  box-shadow: var(--collection-shadow);
+  border-radius: 50%;
+}
+
+.top-brands-image {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.top-brands-title {
+  text-overflow: hidden;
+  margin-top: 0.9rem;
+  display: flex;
+  flex-direction: column; /* Adjust to column layout */
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  line-height: 1.8rem;
+  font-weight: 400;
+
+  
+}
+
+
+.top-brands-time {
+    text-overflow: hidden;
+    margin-top: 0.9rem;
+    display: flex;
+    flex-direction: column; /* Adjust to column layout */
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    line-height: 1.6rem;
+  }
+  

@@ -1,0 +1,29 @@
+.delivery-item-cover {
+    height: 150px;
+    width: 150px;
+    background-color: var(--primary-bg);
+    box-shadow: var(--collection-shadow);
+    border-radius: 50%;
+    
+    margin: 0 auto; /* Center the container horizontally */
+  }
+  
+  .delivery-item-image {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+  }
+  
+.delivery-item-title {
+  display: flex;
+  flex-direction: column; /* Adjust to column layout */
+  align-items: center;
+  justify-content: center;
+    text-overflow: hidden;
+    margin-top: 0.9rem; 
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+  }
+   
+
