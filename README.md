@@ -16,7 +16,7 @@ HTML5
 CSS3
 JavaScript
 # Installation
-Clone the repository: git clone https://github.com/your-username/zomato-clone.git
+Clone the repository: git clone https://github.com/somiljainspace/zomato-clone.git
 Navigate to the project directory: cd zomato-clone
 Install dependencies: npm install
 # Usage
